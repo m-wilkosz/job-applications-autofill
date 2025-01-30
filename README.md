@@ -1,4 +1,7 @@
 <div align="center">
+
+  https://github.com/user-attachments/assets/a0f56b50-bad9-4b4d-89ad-58fe1aac9852
+
 <h1 align="center">
   Job Applications Autofill
 </h1>
